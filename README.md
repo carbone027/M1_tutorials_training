@@ -8,7 +8,7 @@ Mas vamos lá praticar markdown e aprendermos a explicar nossa documentação e 
 
 ## 1.1 Iniciando
 
-Antes de mais nada, é preciso que você consiga editar esse arquivo aqui para praticar. Para isso, você pode fazer um fork deste repositório aqui para sua conta no Github (não sabe como fazer isso? Tem esse tutorial [aqui](https://www.youtube.com/watch?v=q-QTbNu8Ybc]). Daí, quando estiver pronto, já na sua cópia pronta, volte a esse arquivo aqui e repare no ícone de lápis aqui acima, à direita. Clica nele e você vai entrar no modo de edição! (Só continue a ler o resto desse documento depois que estiver no modo de edição, tá bom?)
+Antes de mais nada, é preciso que você consiga editar esse arquivo aqui para praticar. Para isso, você pode fazer um fork deste repositório aqui para sua conta no Github (não sabe como fazer isso? Tem esse tutorial [aqui](https://www.youtube.com/watch?v=q-QTbNu8Ybc)). Daí, quando estiver pronto, já na sua cópia pronta, volte a esse arquivo aqui e repare no ícone de lápis aqui acima, à direita. Clica nele e você vai entrar no modo de edição! (**Só continue a ler o resto desse documento depois que estiver no modo de edição, tá bom?**)
 
 Você pode chavear entre o modo *Edit*, para editar, e *Preview*, para visualizar como está ficando. E é isso o que você vai precisar ficar fazendo daqui pra frente para praticar, tá bom?
 

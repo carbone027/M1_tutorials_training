@@ -24,9 +24,7 @@ Mas vamos lá praticar markdown e aprendermos a explicar nossa documentação e 
 
 [8. Listas e indentações](#8-listas-e-indentações)
 
-[9. LaTeX](#9-latex)
-
-[10. Finalmentes](#10-finalmentes)
+[9. Finalmentes](#9-finalmentes)
 
 ## 1. Iniciando
 
@@ -180,18 +178,11 @@ Se você é daquelas pessoas que adoram uma lista, essa notação a seguir é pr
 
 Ah, reparou que usamos `[ ]` e `[x]` junto com os itens de lista? Isso cria checkboxes para você transformar sua lista em uma lista de tarefas (mas infelizmente ela não é interativa) 😎
 
-## 9. LaTeX
-Agora é uma dica pra deixar esse documento MUITO profissional: Você pode usar LaTeX aqui no Colab, pra deixar suas equações perfeitas! Veja os exemplos abaixo, acessando o modo *Edit* pra ver como foi feito, e aí corra atrás dos professores de Matemática para aprender mais sobre LaTeX 📐📏
+## 9. Finalmentes
 
-$y=x^2$
+Se você fez bagunça aqui nesse README.md, gostou do que fez e quer salvar, você pode fazer um commit + push para seu repositório próprio. 
 
-$e^{i\pi} + 1 = 0$
-
-$\frac{n!}{k!(n-k)!} = {n \choose k}$
-
-## 10. Finalmentes
-
-Se você fez bagunça aqui nesse README.md, gostou do que fez e quer salvar, você pode fazer um commit + push para seu repositório próprio.
+Além disso, se você foi detalhista e observou bem o código Markdown que gerou este tutorial aqui, há diversas outras técnicas que não comentamos. Mas não se preocupe, você já aprendeu o essencial, e o resto você pode aprender por [este link aqui](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax), se tiver necessidade de algo mais específico.
 
 Enfim, use o Markdown para uma escrita mais organizada, que ajude a quebrar a monotonia e o tédio de um texto puro corrido. Capriche na narrativa, na linguagem, crie ritmo de leitura ao posicionar imagens, equações, listas, tabelas, usar negritos e títulos. E mais importante:
 > Nunca deixe de ler pensando em como seu público faria a leitura. Como será a experiência dele em seu README.md?

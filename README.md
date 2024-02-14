@@ -10,19 +10,19 @@ Mas vamos lá praticar markdown e aprendermos a explicar nossa documentação e 
 
 [1. Iniciando](#1-iniciando)
 
-[2. Negrito, itálico, fontes monoespaçadas e imagens](#2-negrito-it%C3%A1lico-fontes-monoespa%C3%A7adas-e-imagens)
+[2. Negrito, itálico, fontes monoespaçadas e imagens](#2-negrito-itálico-fontes-monoespaçadas-e-imagens)
 
-[3. Escrevendo, escrevendo, escrevendo...]()
+[3. Escrevendo, escrevendo, escrevendo...](#3-escrevendo-escrevendo-escrevendo)
 
 [4. Tabelas](#4-tabelas)
 
-[5. Títulos e sub-títulos]()
+[5. Títulos e sub-títulos](#5-títulos-e-sub-títulos)
 
-[6. Âncoras]()
+[6. Âncoras](#6-âncoras)
 
-[7. Blocos de código]()
+[7. Blocos de código](#7-blocos-de-código)
 
-[8. Listas e indentações]()
+[8. Listas e indentações](#8-listas-e-indentações)
 
 [9. LaTeX](#9-latex)
 
@@ -112,13 +112,15 @@ Organize seus documentos usando Headings, elas são importantes não apenas para
 
 ## 6. Âncoras 
 
-Âncoras são links que apontam para algum conteúdo dentro da mesma página. Elas fazem com que a página role até o ponto onde esta âncora aponta. Por exemplo, se você clicar [nesse link aqui](#sumario), você vai parar lá no início deste documento, no Sumário. Volte pra cá depois, tá bom? ☺️
+Âncoras são links que apontam para algum conteúdo dentro da mesma página. Elas fazem com que a página role até o ponto onde esta âncora aponta. Por exemplo, se você clicar [nesse link aqui](#sumário), você vai parar lá no início deste documento, no Sumário. Volte pra cá depois, tá bom? ☺️
 
 Se você observar o próprio sumário no modo *Edit*, você vai ver que ele segue a mesma estrutura de escrita de um link, com a diferença que ele aponta para um endereço que sempre começa com `#` e segue com palavras e hífens. Essas palavras devem ser exatamente as mesmas que você usou em algum título ou sub-título. 
 
 Por exemplo, repare que cada seção deste documento usa um *heading* de `##`. Então, se eu tenho a seção 1 definida por `## 1. Iniciando`, o meu link âncora será `[seu texto aqui](#1-iniciando)`.
 
-É importante você saber que as âncoras não aceitam letras maiúsculas, caracteres especiais e acentuação. Então isso favorece a língua inglesa, que não possui acentuação. Mas sempre há um código equivalente para caracteres especiais que permitem essa adequação. Repare no nosso sumário no modo *Edit*, observe este link aqui para a seção **6. Âncoras**: `#6-âncoras`. Para obter esse link cheio de códigos estranhos, basta você entrar na página .md no seu início, passar o mouse por cima de um título ou sub-título, vai aparecer um ícone de uma "corrente", aí você clica sobre ele e copia o link que aparecer na barra de endereços do seu navegador: repare no final desse link que há justamente o link âncora a partir da `#`. 
+É importante você saber que as âncoras não aceitam letras maiúsculas e caracteres especiais. A regra é você reescrever exatamente o que você escreveu em um título ou subtítulo, mas eliminando caracteres como pontos ou vírgulas, utilizando letras minúsculas e sempre conectando as palavras com um hífen `-`. Repare no nosso sumário no modo *Edit*, observe os links para as seções. Por exemplo, o link para a seção **6. Âncoras** é `#6-âncoras`. Reparou que eliminamos o ponto, e deixamos a letra `Â` minúscula? 
+
+Enfim, âncoras dão um trabalhinho, mas seu público vai te agradecer por você organizar esses links, especialmente em textos longos, cheios de seções, como a documentação do seu projeto do módulo! 😎😎😎
 
 ## 7. Blocos de código
 Você também pode inserir blocos de código não funcional no meio do seu texto. Para isto, basta usar a seguinte notação de string multilinhas usando ``` (você pode colocar "javascript" na abertura do trecho para especificar a linguagem, assim o Github vai colorir funções, variáveis, valores etc.)

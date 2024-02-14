@@ -66,7 +66,13 @@ Embora essas formatações criem dinâmicas e ritmos de leituras legais, o que v
 Este é um primeiro parágrafo. Curto, mas ainda assim, um parágrafo.
 Este é um segundo parágrafo. Um pouco mais longo que o primeiro, mas isso acontece só porque ele tem a quem se referenciar, enquanto o primeiro não tinha.
 
-Veja que estes dois parágrafos estão juntos, em um mesmo parágrafo. Entre no modo de edição, e repare que eles estão separados por uma quebra de linha. Mesmo assim eles estão juntos, o que aconteceu? 😮 Basicamente, para separar o texto em parágrafos distintos, precisamos pular duas linhas, ao invés de uma. Então entre no modo *Edit* e volte ali para separar os parágrafos. 🙂
+Veja que estes dois parágrafos estão juntos, como se fossem um mesmo parágrafo. Entre no modo de edição, e repare que eles estão separados por uma quebra de linha. Mesmo assim eles estão juntos no resultado, o que aconteceu? 😮 Basicamente, para separar o texto em parágrafos distintos, precisamos **pular duas linhas**, ao invés de uma. Então entre no modo *Edit* e volte ali para separar os parágrafos. 🙂
+
+Outra coisa legal que você pode fazer: citações. Veja a seguir
+
+> Já se fazem faculdades como futuramente - Inteli
+
+Para escrever assim, basta você iniciar um parágrafo utilizando o caractere `>` (não se esqueça de pular duas linhas ao iniciar e ao finalizar o parágrafo) ⏰
 
 ## 4. Tabelas
 

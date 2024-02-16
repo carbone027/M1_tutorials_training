@@ -49,21 +49,22 @@ Markdown é uma notação construída a partir de elementos HTML, mas ao invés 
 
 Experimente editar as linhas abaixo e transforme o texto conforme o que for pedido (entre em modo *Edit* para modificar e *Preview* para visualizar)
 
-Transforme esta linha em negrito
+**Transforme esta linha em negrito**
 
-Transforme esta linha em itálico e depois faça o strikethrough
+~~*Transforme esta linha em itálico e depois faça o strikethrough*~~
 
-if(code == "hard"): studyMore() #me transforme em um código com Monospace
+`if(code == "hard"): studyMore()` #me transforme em um código com Monospace
 
-Coloque uma imagem aqui no meu lugar
+![Coloque uma imagem aqui no meu lugar](assets/Logo-Container.png)
 
-🥇🥇🥇Desafio: coloque aqui uma outra imagem que acessa um link quando clicar sobre ela
+[![🥇🥇🥇Desafio: coloque aqui uma outra imagem que acessa um link quando clicar sobre ela](assets/Logo-Container.png)](https://www.inteli.edu.br)
 
 ## 3. Escrevendo, escrevendo, escrevendo...
 
 Embora essas formatações criem dinâmicas e ritmos de leituras legais, o que você mais vai fazer aqui é escrever texto corrido, sem nenhuma formatação. Uma única informação importante durante essa atividade básica: para separar um parágrafo de outro, você precisa pular duas linhas. Veja o exemplo a seguir:
 
 Este é um primeiro parágrafo. Curto, mas ainda assim, um parágrafo.
+
 Este é um segundo parágrafo. Um pouco mais longo que o primeiro, mas isso acontece só porque ele tem a quem se referenciar, enquanto o primeiro não tinha.
 
 Veja que estes dois parágrafos estão juntos, como se fossem um mesmo parágrafo. Entre no modo de edição, e repare que eles estão separados por uma quebra de linha. Mesmo assim eles estão juntos no resultado, o que aconteceu? 😮 Basicamente, para separar o texto em parágrafos distintos, precisamos **pular duas linhas**, ao invés de uma. Então entre no modo *Edit* e volte ali para separar os parágrafos. 🙂
@@ -74,17 +75,19 @@ Outra coisa legal que você pode fazer: citações. Veja a seguir
 
 Para escrever assim, basta você iniciar um parágrafo utilizando o caractere `>` (não se esqueça de pular duas linhas ao iniciar e ao finalizar o parágrafo) ⏰
 
+> Ser ou não ser, eis a questão - Shakespeare
+
 ## 4. Tabelas
 
 `"Legal, mas como que faz aquela tabela esperta ali acima? É no markdown também?"` Sim! Se você observar a tabela acima no modo *Edit*, você vê como ela foi montada com Markdown. Você pode usar o caractere *pipe* `|` para separar palavras em colunas, e cada linha escrita depois deve seguir essa mesma separação. Mas para que tudo se transforme em tabela, você precisa reservar a segunda linha para repetir a expressão `---` separada por `|` conforme o total de colunas que você tem. Edite o exemplo a seguir e *aproveite para colocar emojis para seus professores* (para adicionar um emoji no Markdown, digite `:` e comece a digitar o nome em inglês do emoji. Por exemplo, digite `:bus` e vai aparecer 🚌 Para conhecer a lista completa de emojis, [clique aqui](https://gist.github.com/rxaviers/7360908))
 
 Coordenadores | Orientadores | Programação | Matemática e Física | Negócios | UX | Liderança
 --- | --- | --- | --- | --- | --- | ---
-Ana | Reginaldo | Cristiano | Geraldo | Egon | Julia | Filipe
+Ana | Reginaldo | Cristiano 🌟 | Geraldo | Egon | Julia | Filipe
 Egon | Laíza | Kizzy | Henrique | Natalia | Fabiana | Claudio
-Michele | Fabiana | André G. | Ricardo | Pedro | Francisco | Marcelo
+Michele | Fabiana 😎 | André G. | Ricardo | Pedro | Francisco | Marcelo
 Monica | Julia | Fillipe | Cristina | Lisane | Sergio | Michele
-Sergio | Marcelo | Jefferson | Pizzo | Rafael J. | Guilherme | Ana 
+Sergio 👏 | Marcelo | Jefferson | Pizzo | Rafael J. | Guilherme | Ana 
 | | Claudio | Hayashi | Diogo |  | Bruna | Monica
 | | Renato | Afonso | | | | Vanessa
 | | Tomaz | Nicola | | | | Laíza
